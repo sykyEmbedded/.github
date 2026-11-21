@@ -14,6 +14,9 @@ My main interests lie in firmware, drivers, RTOS, bring-up and embedded devops.
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Nordic](https://img.shields.io/badge/Nordic-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
 
 
+![RPI](https://img.shields.io/badge/RPI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![NVDA](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
 <!-- Removed as these are associated with beginners -->
 <!-- ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![PIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white) -->
 
